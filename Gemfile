@@ -3,8 +3,7 @@ gem "jekyll", "~> 3.5"
 gem "jekyll-seo-tag", "~> 2.0"
 gem "github-pages", "~> 203", group: :jekyll_plugins
 
-gem "jekyll-theme-minima"
-gem "jekyll-theme-hacker"
+gem "jekyll-theme-primer"
 
 # plugins
 group :jekyll_plugins do
