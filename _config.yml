@@ -29,7 +29,7 @@ github_username:  chenjefferson
 timezone: AMERICA/LOS_ANGELES
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
