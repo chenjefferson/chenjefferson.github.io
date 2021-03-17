@@ -2,15 +2,16 @@ import React from 'react';
 
 function Navbar() {
   return (
-    <nav>
+    <header>
       <h1>Jefferson William Chen</h1>
-      <ul>
-        <li>APIs</li>
-        <li>About</li>
-        <li>Resume</li>
-        <li>Contact</li>
-      </ul>
-    </nav>
+      <nav>
+        <ul>
+          <li>About</li>
+          <li>Blog</li>
+          <li>APIs</li>
+        </ul>
+      </nav>
+    </header>
   );
 }
 
